@@ -1,24 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>My Website</title>
+<title>Happy Hobby Homies</title>
 <style>
-body {
-margin: 0;
-display: flex;
-justify-content: center;
-align-items: center;
-height: 100vh;
-background: #000;
+body{
+margin:0;
+background:black;
 }
- 
-img {
-max-width: 100%;
-max-height: 100%;
+img{
+width:100%;
+height:100vh;
+object-fit:contain;
 }
 </style>
 </head>
 <body>
-HappyHobbyHomies_web_pic.jpg
-</body>
-</html>
+ 
+<img src="HappyHobbyHomiew_web_pic.jpg</html>
